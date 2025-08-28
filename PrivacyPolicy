@@ -1,0 +1,13 @@
+Purpose: we post videos to TikTok on your behalf; we store only what’s needed to publish (access tokens, captions, video file paths).
+
+Data we collect: OAuth tokens, video metadata (titles, tags), logs for troubleshooting.
+
+How we use it: solely to schedule and publish content you request; not sold or shared.
+
+Retention: tokens/metadata until you revoke access or request deletion.
+
+Your rights: revoke access in TikTok; email us for data deletion.
+
+Security: tokens stored encrypted at rest (or “stored locally on your machine” if that’s true for you).
+
+Contact: facelessa63@gmail.com
